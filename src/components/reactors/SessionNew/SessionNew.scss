@@ -1,0 +1,19 @@
+#checkout {
+    border: #E1E1E1 1px solid;
+    border-radius: 1rem;
+    position: relative;
+    left: 1.85rem;
+    width: 85%;
+
+    > * {
+        margin: 1rem;
+    }
+
+    h3 {
+        margin: 1rem;
+    }
+}
+
+button {
+    margin: 1rem;
+}
